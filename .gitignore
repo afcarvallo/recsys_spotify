@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 /mpd.v1
+*.csv
 
 # C extensions
 *.so
